@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Legacy107/SWS-BE-task
+	url = https://github.com/Legacy107/sws-backend
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Legacy107/sws-frontend
